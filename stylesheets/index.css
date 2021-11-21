@@ -8,7 +8,7 @@ header{
   top: 0;
   width: 100%;
   transition: .3s cubic-bezier(.4,0,.2,1);
-  height: 117px;
+  height: 106px;
   background-color: #FADEB4;
   z-index: 9999;
 }
@@ -23,7 +23,7 @@ header{
   top: 0;
   width: 100%;
   transition: .3s cubic-bezier(.4,0,.2,1);
-  height: 117px;
+  height: 106px;
   background-color: #FADEB4;
   z-index: 9999;
 }
@@ -34,7 +34,7 @@ header{
   font-family: 'Qwigley', cursive;
   font-size: 80px;
   margin: auto;
-  height: 117px;
+  height: 106px;
   padding-left: 250%;
   background-color: #FADEB4;
 }
