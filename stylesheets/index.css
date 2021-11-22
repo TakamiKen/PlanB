@@ -8,7 +8,7 @@ header{
   top: 0;
   width: 100%;
   transition: .3s cubic-bezier(.4,0,.2,1);
-  height: 106px;
+  height: 100px;
   background-color: #FADEB4;
   z-index: 9999;
 }
@@ -92,10 +92,10 @@ header{
 
 .event-image0 {
   position: absolute;
-  width: 100px;
-  height: 41px;
+  width: 150px;
+  height: 61px;
   margin-left: 44.7%;
-  top: 0;
+  top: 23px;
 }
 
 
